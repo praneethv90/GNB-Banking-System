@@ -1,0 +1,16 @@
+.clear {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0074cc; 
+    color: #fff; 
+    border-radius: 25px; 
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .clear:hover {
+    background-color: #005ea6; 
+  }
+  

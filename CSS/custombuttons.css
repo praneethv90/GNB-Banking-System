@@ -1,0 +1,24 @@
+
+.btn-primary {
+    background-color: rgb(216, 16, 223); /* Change to your desired primary button background color */
+   
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+    background-color: rgb(153, 38, 153)/* Change to your desired primary button hover/focus color */
+    
+}
+
+.btn-danger {
+    background-color: orange /* Change to your desired danger button background color */
+  
+}
+
+.btn-danger:hover,
+.btn-danger:focus,
+.btn-danger:active {
+    background-color: orangered; /* Change to your desired danger button hover/focus color */
+    
+}
